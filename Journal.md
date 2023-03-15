@@ -226,13 +226,13 @@
 
     [X] I am writting here for the second consecutive day.
 
+    [X] Get shaders working on Retroarch
+
   **Still thinking about doing today**
 
     [] Organize my notion and define cateories for my Notes. (Calendar/Agenda, TODOS, Goals/Milestones)
 
     [] Organize my finances
-
-    [] Get shaders working on Retroarch
 
     [] Get DS games working on Steam with ROM Manager
 
@@ -243,4 +243,73 @@
     There are stories and a Diary I keep.
 
     This has been the best way to keep a diary here up until now. The pages don't feel organized nor easy to read inside the file itself, although in a **rendered markdown** view it looks decent. Still no images.
+
+---
+
+## Page 10 - Keep Track
+
+  **Things I did Today**
+
+  -[x] Wrote here again
+
+  -[x] Drew a micro comic about imagine dragons It's Time
+
+  -[x] Talked to a lot of people. Felipe about jobs for Vero. Nicolas about football. Dario about Go
+
+  **TODO TODAY**
+
+  -[x] Organize notes, finances, tracking
+
+  **What Exactly are my notes**
+
+  I need to categorize them.
+
+  For tasks I'll do during a day  => *TODO* 
+
+  -[ ] Like
+
+  -[x] This
+
+  For Information about a Topic   => *Note*
+
+  ---
+
+  # Like this
+
+  Note content goes here.
+
+  ---
+
+  Ideas  ==========================> *Note?*
+
+  Long Task / Project =============> *Table*
+
+  |Header 1 |Header 2 |
+  |:------- |:------- |
+  |Like     |This     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
