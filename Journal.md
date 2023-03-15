@@ -220,23 +220,23 @@
 
   **Things I did today**
 
-    - [x] Managed to access and manipulate my repositories again (Personal Access Token).
+  - [x] Managed to access and manipulate my repositories again (Personal Access Token).
 
-    - [x] Put 2FA on my github and generated a GPG key pair too.
+  - [x] Put 2FA on my github and generated a GPG key pair too.
 
-    - [x] I am writting here for the second consecutive day.
+  - [x] I am writting here for the second consecutive day.
 
-    - [x] Get shaders working on Retroarch
+  - [x] Get shaders working on Retroarch
 
   **Still thinking about doing today**
 
-    - [ ] Organize my notion and define cateories for my Notes. (Calendar/Agenda, TODOS, Goals/Milestones)
+  - [ ] Organize my notion and define cateories for my Notes. (Calendar/Agenda, TODOS, Goals/Milestones)
 
-    - [ ] Organize my finances
+  - [ ] Organize my finances
 
-    - [ ] Get DS games working on Steam with ROM Manager
+  - [ ] Get DS games working on Steam with ROM Manager
 
-    - [ ] Get Retroarch to work with Rom Manager
+  - [ ] Get Retroarch to work with Rom Manager
 
   ***About this Repo*** 
 
