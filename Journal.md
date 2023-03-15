@@ -250,15 +250,15 @@
 
   **Things I did Today**
 
-  -[x] Wrote here again
+  - [x] Wrote here again
 
-  -[x] Drew a micro comic about imagine dragons It's Time
+  - [x] Drew a micro comic about imagine dragons It's Time
 
-  -[x] Talked to a lot of people. Felipe about jobs for Vero. Nicolas about football. Dario about Go
+  - [x] Talked to a lot of people. Felipe about jobs for Vero. Nicolas about football. Dario about Go
 
   **TODO TODAY**
 
-  -[x] Organize notes, finances, tracking
+  - [x] Organize notes, finances, tracking
 
   **What Exactly are my notes**
 
@@ -266,9 +266,9 @@
 
   For tasks I'll do during a day  => *TODO* 
 
-  -[ ] Like
+  - [ ] Like
 
-  -[x] This
+  - [x] This
 
   For Information about a Topic   => *Note*
 
