@@ -292,28 +292,28 @@
   |:------- |:------- |
   |Like     |This     |
 
+---
 
+# Page 11 - Shortcuts and Workflows
 
+  Maybe it's a good idea to keep my own list of shortcuts in md.
 
+  Workflows:
 
+    - VSCodium
 
+    - Blender
 
+    - Inkscape
 
+    - Krita
 
+    - Neovim / Netrw
 
+    - DBeaver
 
+    - Firefox
 
+    - Notion
 
-
-
-
-
-
-
-
-
-
-
-
-  
 
