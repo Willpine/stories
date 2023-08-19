@@ -300,20 +300,21 @@
 
   Workflows:
 
-    - VSCodium
+  - VSCodium
 
-    - Blender
+  - Blender
 
-    - Inkscape
+  - Inkscape
 
-    - Krita
+  - Krita
 
-    - Neovim / Netrw
+  - Neovim / Netrw
 
-    - DBeaver
+  - DBeaver
 
-    - Firefox
+  - Firefox
 
-    - Notion
+  - Notion
 
+  Better do this in separate files, maybe extending to Notion.
 
