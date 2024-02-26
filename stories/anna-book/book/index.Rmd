@@ -1,0 +1,13 @@
+---
+title: "Anna"
+author: "Willian Y. M. Oshiro"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::epub_book: default
+  #bookdown::pdf_book: default
+---
+
+# Weird Autumn
+
+  After hours of galaxy radio and pinetree forests, we finally arrived at *Maple District*.
