@@ -27,4 +27,3 @@ O pingente que carregava no meu bolso veio à mente, junto com a mensagem em seu
 A solução se chocou com a minha mente assim que terminei de recitar o último verso, e junto ao desejo de trazer de volta as chaves do passado, nasceu a vontade de alcançá-las. O tempo tomou forma diante dos meus olhos, uma passarela interdimensional se constrói delicadamente à minha frente, lentamente reconstruindo a imagem das lindas formas douradas usadas para acessar meu destino. Agarro-lhes confiante.
 
 Hades agora me observa interessado, ainda que mantendo a tremenda energia que senti ao encará-lo pela primeira vez. Posiciono as chaves nas fechaduras do próximo portão, disparando um mecanismo que modifica cada detalhe em cobre no salão. Plantas, vinhas e flores murcham e se destroem, à medida que silhuetas de crianças brincando em prata tomam forma durante a transformação uniforme e simultânea que o salão recebe.
-
