@@ -1,12 +1,25 @@
 # Stories and Stuff
 
-  Some ideas for stories and a Diary.
+## Dump
 
-*All files should be _Plain Text_*
-  
+RAW THOUGHTS.
+
+## journal
+
+Entries tracking my days.
+
 ## Stories
 
-## Journal
+Stories.
 
-## A calendar with important dates
+## thoughts
 
+Things that keep me up at night.
+
+## utils
+
+Scripts and templates.
+
+## workflows
+
+How to write, compile and publish stories and books.
