@@ -5,3 +5,9 @@
   Understanding concepts, how others think.
 
   Youthful hope and optimism. Desperate, melancolic optimism.
+
+- "No matter how far we travel, autumn will always feel like home".
+
+- "We are beneath the same stars, even if we can't see them."
+
+- "I miss them."
